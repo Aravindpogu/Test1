@@ -1,6 +1,3 @@
-#
-# Copyright (c) 2015 Juniper Networks, Inc. All rights reserved.
-#
 
 """
 This is a script to get all the service profiles associated with a customer
